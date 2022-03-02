@@ -1,0 +1,24 @@
+{
+  "name": "sidebar",
+  "version": "1.0.0",
+  "description": "In this project, the goal was create a menu, that could opened or closed, after clicking a button, in that case i used a humburger menu button.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoGuilherme2909/SideBar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoGuilherme2909/SideBar/issues"
+  },
+  "homepage": "https://github.com/JoaoGuilherme2909/SideBar#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
